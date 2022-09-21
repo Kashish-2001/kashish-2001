@@ -11,12 +11,11 @@
 <p align="left">
 <a href="https://twitter.com/kashish_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashish_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kashishagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashishagrawal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kashish_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashish_2001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kashish_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kashish_2001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kashish2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashish2001" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kashish-2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kashish-2001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kashhash01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kashhash01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kashish_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kashish_2001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kashish.1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kashish.1907" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kashish_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kashish_2001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kashish2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashish2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
